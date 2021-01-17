@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: menino.eu
+Token: c0c7cf2172f8e5f812cc4aa04a109996df6739aa1f47163fee9cc9aef3823f4f
